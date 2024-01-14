@@ -11,6 +11,6 @@ Functionalities for Recruiters or HR:
   2. Browse and manage all applications;
   3. Open/close job positions;
 
-Additional funtionalities:
+Additional functionalities:
   1. Upon submission of an application, the system automatically sends a confirmation email to the applicant. The email is sent to the email address provided in the application form;
   2. When a new job position is opened, the system automatically creates a LinkedIn post;
