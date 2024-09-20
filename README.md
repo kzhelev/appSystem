@@ -25,6 +25,8 @@ I have executed this project using the MVC design pattern with Java and Spring f
 
 Data exchange between the frontend and backend is managed by Thymeleaf.
 
-The functionalities for sending emails and creating posts on LinkedIn are implemented using the Google and LinkedIn APIs.
+The project utilizes **Maven** as the build tool and is deployed on an **AWS EC2 Linux virtual machine**. Network communication is secured via **HTTPS**.
+
+The functionalities for sending emails and creating posts on LinkedIn are implemented using the **Google and LinkedIn APIs**.
 
 
