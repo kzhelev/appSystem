@@ -21,7 +21,7 @@ Additional functionalities:
 
 Additional Info About the Project Execution:
 
-I have executed this project using the MVC design pattern with Java and Spring framework. The base layer of the UI is a free Bootstrap template that has been customized with additional CSS, HTML, and Bootstrap components.
+I have executed this project using the MVC design pattern with Java and Spring framework. The base layer of the UI is a free Bootstrap template that has been customized with additional CSS, HTML, and Bootstrap components. As this project serves educational purposes, the user interface is not optimized for mobile devices.
 
 Data exchange between the frontend and backend is managed by Thymeleaf.
 
